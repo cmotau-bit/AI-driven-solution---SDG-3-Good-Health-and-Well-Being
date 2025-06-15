@@ -4,7 +4,7 @@
 This is a Streamlit web app that predicts the risk of heart disease based on medical inputs using a machine learning model trained on the UCI Cleveland dataset.
 
 ## 🚀 Try it live
-👉 [Click here to open the app](https://your-streamlit-url-here)  
+👉 [Click here to open the app](https://ai-driven-solution---sdg-3-good-health-and-well-being-jrramxam.streamlit.app/))  
 (*replace with your actual Streamlit Cloud link after deployment*)
 
 ## 🧠 Features
